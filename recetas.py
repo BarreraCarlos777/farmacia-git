@@ -19,3 +19,4 @@ if __name__ == "__main__":
     p = Paciente(501, "María", 45)
     r = Receta(9001, p, doc, ["Aspirina", "Vitamina C"])
     print(r.detalle())
+#TLABAJA, TIENES QUE TLABAJALLL
